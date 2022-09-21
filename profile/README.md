@@ -1,7 +1,7 @@
 # WO Project - Wedding Organizer Website Project
 Situs web dari perusahaan jasa Wedding Organizer untuk meningkatkan performa dan eksistensi perusahaan. Project ini terdiri dari tiga Website termasuk User Website (untuk mengelola organisasi), Customer Website (untuk branding dan promosi), dan Admin Panel (untuk keperluan admin) 
 
-## Documentation
+## Repositories
 
 - ### [&nbsp;&nbsp;Font-End Development &rarr;]()
 - ### [&nbsp;&nbsp;Back-End Development &rarr;]()
