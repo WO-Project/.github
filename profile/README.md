@@ -8,9 +8,9 @@ Situs web dari perusahaan jasa Wedding Organizer untuk meningkatkan performa dan
 
 ## Timeline
 
-- ##### Start Project : 21 September 2022
-- ##### Intensive : November 2022
-- ##### End of Project : February 2022
+- #### Start Project : 21 September 2022
+- #### Intensive : November 2022
+- #### End of Project : February 2022
 
 ## Members
 |No.| Name        |Role           | Responsibility |
