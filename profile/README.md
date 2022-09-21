@@ -3,9 +3,9 @@ Situs web dari perusahaan jasa Wedding Organizer dibangun untuk meningkatkan per
 
 ## Repositories
 
-- ### [&nbsp;&nbsp;Font-End Development &rarr;]()
-- ### [&nbsp;&nbsp;Back-End Development &rarr;]()
-- ### [&nbsp;&nbsp;Google Drive &rarr;](https://drive.google.com/drive/folders/124DtSDee9rlchluM-ryYg9khgV7rcXhb)
+- ### [&nbsp;&nbsp;Font-End Development]()
+- ### [&nbsp;&nbsp;Back-End Development]()
+- ### [&nbsp;&nbsp;Google Drive](https://drive.google.com/drive/folders/124DtSDee9rlchluM-ryYg9khgV7rcXhb)
 
 ## Timeline
 
