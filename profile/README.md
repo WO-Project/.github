@@ -3,8 +3,8 @@ Situs web dari perusahaan jasa Wedding Organizer dibangun untuk meningkatkan per
 
 ## Repositories
 
-- ### [&nbsp;&nbsp;Font-End Development]()
-- ### [&nbsp;&nbsp;Back-End Development]()
+- ### [&nbsp;&nbsp;Front-End Development](https://github.com/WO-Project/Front-End-Panel-Admin)
+- ### [&nbsp;&nbsp;Back-End Development](https://github.com/WO-Project/Back-End-Laravel-API)
 - ### [&nbsp;&nbsp;Google Drive](https://drive.google.com/drive/folders/124DtSDee9rlchluM-ryYg9khgV7rcXhb)
 
 ## Timeline
